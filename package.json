@@ -1,0 +1,17 @@
+{
+  "name": "react-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-config-airbnb": "^19.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
